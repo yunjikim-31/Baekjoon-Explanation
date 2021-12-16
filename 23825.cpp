@@ -7,6 +7,6 @@ int main() {
 	int X = 0;
 	
 	X = (N < M) ? N : M;
-
+	
 	cout << X / 2;
 }
